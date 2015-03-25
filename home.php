@@ -8,8 +8,6 @@
     <link rel="stylesheet" type="text/css" href="CSS/custom.css" />
     <link rel="stylesheet" type="text/css" href="font-awesome-4.3.0/css/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="CSS/colors.css" />
-  <script src="JavaScript/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 </head>
 <body id="page-top">
 
@@ -51,15 +49,15 @@
     <div class="text-center center-block">
         <p class="txt-railway">Dream Day</p>
         <br />
-        <a href="https://www.facebook.com/bootsnipp"><i id="social" class="fa fa-facebook-square fa-3x social-fb logo-color"></i></a>
-        <a href="https://twitter.com/bootsnipp"><i id="social" class="fa fa-twitter-square fa-3x social-tw logo-color"></i></a>
-        <a href="https://plus.google.com/+Bootsnipp-page"><i id="social" class="fa fa-google-plus-square fa-3x social-gp logo-color"></i></a>
-        <a href="mailto:bootsnipp@gmail.com"><i id="social" class="fa fa-envelope-square fa-3x social-em logo-color"></i></a>
+        <a href="#"><i id="social" class="fa fa-facebook-square fa-3x social-fb logo-color"></i></a>
+        <a href="#"><i id="social" class="fa fa-twitter-square fa-3x social-tw logo-color"></i></a>
+        <a href="#"><i id="social" class="fa fa-google-plus-square fa-3x social-gp logo-color"></i></a>
+        <a href="mailto:dreamdaydev@gmail.com"><i id="social" class="fa fa-envelope-square fa-3x social-em logo-color"></i></a>
     </div>
     <hr>
 </div>
 
 <script src="JavaScript/jquery.min.js"></script>
-<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>
